@@ -1,3 +1,2 @@
-##HELLO
-
-it's my project
+##it's my project
+Hi! Hello!
